@@ -36,14 +36,6 @@
   </p>
   </div>
 
-<div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
-  <h3>☁️ My Stats ☁️</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=matilde-sousa&show_icons=true&theme=radical&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff69b4&text_color=db7093" />
-</div>
-
 <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
