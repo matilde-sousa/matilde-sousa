@@ -16,8 +16,7 @@
     <h3 align="center">⭒  About Me  ⭒</h3>
     <div style="max-width: 700px; text-align: left;">
         <br>
-        <p>✨ I’m studying Informatics and Computing Engineering at Faculdade de Engenharia da Universidade do Porto</p>
-        <p>🍰 Currently learning: <b>Web Development</b></p>
+        <p>✨I'm doing my Master's in Software Engineering</p>
         <p>💌 How to reach me: 
              <span style="color: #ff69b4; font-weight: bold;">matilde.nogueira.sousa [ at ] gmail [ dot ] com</span>
         </p>
